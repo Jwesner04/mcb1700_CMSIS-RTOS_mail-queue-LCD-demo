@@ -1,0 +1,13 @@
+.\flash\main.o: main.c
+.\flash\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\main.o: .\include\cmsis_os.h
+.\flash\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\main.o: .\include\LPC17xx.h
+.\flash\main.o: .\include\core_cm3.h
+.\flash\main.o: .\include\core_cmInstr.h
+.\flash\main.o: .\include\core_cmFunc.h
+.\flash\main.o: .\include\system_LPC17xx.h
+.\flash\main.o: .\include\Board_LED.h
+.\flash\main.o: ADC.h
+.\flash\main.o: GLCD.h

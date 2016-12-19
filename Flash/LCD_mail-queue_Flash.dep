@@ -1,0 +1,70 @@
+Dependencies for Project 'LCD_mail-queue', Target 'Flash': (DO NOT MODIFY !)
+F (.\ADC.c)(0x57FE3488)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\adc.o --omf_browse .\flash\adc.crf --depend .\flash\adc.d)
+I (.\include\LPC17xx.H)(0x543F0D46)
+I (.\include\core_cm3.h)(0x543F0D1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (.\include\core_cmInstr.h)(0x543F0D3D)
+I (.\include\core_cmFunc.h)(0x543F0D29)
+I (.\include\system_LPC17xx.h)(0x543F0D66)
+I (ADC.h)(0x57FE34DF)
+F (.\GLCD.c)(0x57FE3517)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\glcd.o --omf_browse .\flash\glcd.crf --depend .\flash\glcd.d)
+I (.\include\lpc17xx.h)(0x543F0D46)
+I (.\include\core_cm3.h)(0x543F0D1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (.\include\core_cmInstr.h)(0x543F0D3D)
+I (.\include\core_cmFunc.h)(0x543F0D29)
+I (.\include\system_LPC17xx.h)(0x543F0D66)
+I (GLCD.h)(0x57FE353C)
+I (Font_6x8_h.h)(0x57FE3589)
+I (Font_16x24_h.h)(0x57FE35B6)
+F (.\main.c)(0x58581BA2)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\main.o --omf_browse .\flash\main.crf --depend .\flash\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AF90A2)
+I (.\include\cmsis_os.h)(0x58065DE1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF90A2)
+I (.\include\LPC17xx.h)(0x543F0D46)
+I (.\include\core_cm3.h)(0x543F0D1C)
+I (.\include\core_cmInstr.h)(0x543F0D3D)
+I (.\include\core_cmFunc.h)(0x543F0D29)
+I (.\include\system_LPC17xx.h)(0x543F0D66)
+I (.\include\Board_LED.h)(0x543F0D01)
+I (ADC.h)(0x57FE34DF)
+I (GLCD.h)(0x57FE353C)
+F (.\Abstract.txt)(0x543F17D0)()
+F (.\src\led_mcb1700.c)(0x543F0D91)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\led_mcb1700.o --omf_browse .\flash\led_mcb1700.crf --depend .\flash\led_mcb1700.d)
+I (.\include\PIN_LPC17xx.h)(0x543F0DAF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF90A2)
+I (.\include\GPIO_LPC17xx.h)(0x543F0DA2)
+I (.\include\Board_LED.h)(0x543F0D01)
+F (.\src\rtx_conf_cm.c)(0x543F0DD0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\rtx_conf_cm.o --omf_browse .\flash\rtx_conf_cm.crf --depend .\flash\rtx_conf_cm.d)
+I (.\include\cmsis_os.h)(0x58065DE1)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF90A2)
+I (.\include\RTX_CM_lib.h)(0x543F0DE4)
+F (.\lib\RTX_CM3.lib)(0x542035E6)()
+F (.\startup\system_lpc17xx.c)(0x543F0E48)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\system_lpc17xx.o --omf_browse .\flash\system_lpc17xx.crf --depend .\flash\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (.\include\LPC17xx.h)(0x543F0D46)
+I (.\include\core_cm3.h)(0x543F0D1C)
+I (.\include\core_cmInstr.h)(0x543F0D3D)
+I (.\include\core_cmFunc.h)(0x543F0D29)
+I (.\include\system_LPC17xx.h)(0x543F0D66)
+F (.\startup\startup_lpc17xx.s)(0x543F0E3E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 516" --pd "LPC175x_6x SETA 1"--list .\startup_lpc17xx.lst --xref -o .\flash\startup_lpc17xx.o --depend .\flash\startup_lpc17xx.d)
+F (.\src\gpio_lpc17xx.c)(0x543F0E7C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\gpio_lpc17xx.o --omf_browse .\flash\gpio_lpc17xx.crf --depend .\flash\gpio_lpc17xx.d)
+I (.\include\LPC17xx.h)(0x543F0D46)
+I (.\include\core_cm3.h)(0x543F0D1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (.\include\core_cmInstr.h)(0x543F0D3D)
+I (.\include\core_cmFunc.h)(0x543F0D29)
+I (.\include\system_LPC17xx.h)(0x543F0D66)
+I (.\include\GPIO_LPC17xx.h)(0x543F0DA2)
+F (.\src\pin_lpc17xx.c)(0x543F0E9F)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I "C:\Users\Jwesner\Documents\All_Projects_git\mcb1700_CMSIS RTOS_mail-queue-LCD-demo\RTE"-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DLPC175x_6x-o .\flash\pin_lpc17xx.o --omf_browse .\flash\pin_lpc17xx.crf --depend .\flash\pin_lpc17xx.d)
+I (.\include\LPC17xx.h)(0x543F0D46)
+I (.\include\core_cm3.h)(0x543F0D1C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF90A2)
+I (.\include\core_cmInstr.h)(0x543F0D3D)
+I (.\include\core_cmFunc.h)(0x543F0D29)
+I (.\include\system_LPC17xx.h)(0x543F0D66)
+I (.\include\PIN_LPC17xx.h)(0x543F0DAF)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF90A2)
