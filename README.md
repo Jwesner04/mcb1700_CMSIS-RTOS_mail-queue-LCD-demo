@@ -6,7 +6,7 @@ LCD queuing demo
 #----------------------------------------#
 	1. Make sure git is installed on local machine
 	2. Open command prompt and navigate to folder on computer
-	3. Run the command "git clone https://github.com/Jwesner04/mcb1700_CMSIS-RTOS_ac-control.git"
+	3. Run the command "git clone https://github.com/Jwesner04/mcb1700_CMSIS-RTOS_mail-queue-LCD-demo.git"
 	4. Own a mcb1700 board
 	5. Download Keil embedded tools @ https://www.keil.com/download/product/
 
